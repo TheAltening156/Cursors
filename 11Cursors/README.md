@@ -1,7 +1,7 @@
 # 11Cursors
 * [Alternate.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Alternate.cur)
-* [Diagonal%201.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Diagonal%201.cur)
-* [Diagonal%202.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Diagonal%202.cur)
+* [Diagonal 1.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Diagonal%201.cur)
+* [Diagonal 2.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Diagonal%202.cur)
 * [Help.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Help.cur)
 * [Horizontal.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Horizontal.cur)
 * [Location.cur](https://github.com/TheAltening156/Cursors/raw/refs/heads/main/11Cursors/Location.cur)
